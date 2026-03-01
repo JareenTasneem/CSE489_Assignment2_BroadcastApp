@@ -28,7 +28,7 @@
         android:layout_height="1dp"
         android:layout_marginTop="24dp"
         android:layout_marginBottom="24dp"
-        android:background="#DDDDDD" />
+        android:background="#AAAAAA" />
 
     <!-- Proceed Button -->
     <Button

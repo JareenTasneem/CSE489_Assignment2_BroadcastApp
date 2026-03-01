@@ -1,0 +1,65 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Jareen Tasneem Khondaker
+Student ID: 22301308
+Assignment: 02
+Date: 01-03-2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[X] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[X] Learning/understanding concepts
+[X] Debugging my code
+[X] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+As I am still new to app development and using android studio, there are many concepts and things I am still learning. I basically used AI to understand how things work. I also used it to better understand what was asked of me for the assignment. For example, I was not aware of what it meant by spinner option. I also used it to fix minor bugs, which were mostly connecting paths of one file to the other. I also used it to understand how to write a code in certain parts as I am still new to learning Kotlin and could not find relevant references elsewhere properly. I also used it to understand which folders I might need.
+
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: ImageFragment.kt Section: Inside onCreateView
+File: BroadcastFragment.kt Section: Inside onCreateView
+File: _________________ Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Jareen Tasneem Khondaker
+Date: 3-1-25
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
