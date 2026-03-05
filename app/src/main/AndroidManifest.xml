@@ -29,6 +29,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <receiver
+            android:name=".MyCustomReceiver"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="com.example.assignment_2.CUSTOM_ACTION"/>
+            </intent-filter>
+        </receiver>
     </application>
 
 </manifest>

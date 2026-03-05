@@ -16,11 +16,13 @@ class CustomInputActivity : AppCompatActivity() {
         val button = findViewById<Button>(R.id.btnSend)
 
         button.setOnClickListener {
-            val message = editText.text.toString()
 
-            val intent = Intent(this, CustomReceiverActivity::class.java)
-            intent.putExtra("message", message)
-            startActivity(intent)
+            val message = editText.text.toString()
+            val broadcastIntent = Intent("com.example.assignment_2.CUSTOM_ACTION")
+            broadcastIntent.setPackage(packageName)
+            broadcastIntent.putExtra("message", message)
+
+            sendBroadcast(broadcastIntent)
         }
     }
 }
